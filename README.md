@@ -1,6 +1,6 @@
 # Snake game on raspberry pi and unicorn HAT with 7 segment LED
 <br><br>
-![setup](/setup_photo.jpg)
+![setup](/img/setup_photo.jpg)
 <br><br>
 ### Here is me playing the game : https://youtu.be/bFUH2WcoUvM
 ### 4 buttons, 1 unicorn HAT (8x8 LED matrix), 1 raspberry pi, 1 7-segment LED, bunch of wires, some free time and not so creative mind is all you need for this one! If you are reading this, I guess you already have the latter two, so just buy the remaining ones and have some fun xD
